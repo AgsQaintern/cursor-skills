@@ -63,7 +63,11 @@ cursor-skills/
 ├── twitter-algorithm-optimizer/ # Optimize tweets for reach
 ├── video-downloader/    # Download YouTube videos
 ├── webapp-testing/      # Test local web apps with Playwright
-└── xlsx/                # Spreadsheet creation and analysis
+├── xlsx/                # Spreadsheet creation and analysis
+│
+├── composio-skills/     # Pre-built Composio automation skills (risk, chat, and more)
+├── connect-apps-plugin/ # Connect Claude to 500+ apps via Composio (auth + actions)
+└── document-skills/     # Unified document toolkit (docx, pdf, pptx, xlsx grouped)
 ```
 
 ## How to use
